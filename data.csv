@@ -1,0 +1,22 @@
+Austin   ;Austin    ;Gabe        ;Austin      ;Gabe
+Austin   ;Austin    ;Gabe        ;Austin      ;Gabe
+Austin   ;Austin    ;Gabe        ;Austin      ;Gabe
+Austin   ;Austin    ;Gabe        ;Austin      ;Gabe
+Amy      ;Amy       ;Amy,Gabe    ;            ;Amy,Gabe
+Amy      ;Austin,Amy;Amy,Gabe    ;            ;Amy,Gabe
+Amy      ;Austin,Amy;Amy         ;            ;Amy,Gabe
+Amy      ;Austin,Amy;Amy         ;            ;Amy
+Amy,Kevin;Austin,Amy;Sunny       ;Gabe        ;Kevin
+Kevin    ;          ;Sunny       ;Gabe        ;Kevin
+Kevin    ;          ;Kevin       ;Amy,Kevin   ;Kevin
+Kevin    ;          ;Kevin       ;Amy,Kevin   ;Kevin
+Kevin    ;          ;Austin,Kevin;Amy,Kevin   ;Austin,Kevin
+Kevin    ;          ;Austin,Kevin;Amy,Kevin   ;Austin,Kevin
+         ;          ;            ;Amy,Sunny   ;Austin
+         ;          ;            ;Amy,Sunny   ;Austin
+         ;          ;            ;Amy,Sunny   ;Austin
+         ;          ;            ;Amy,Sunny   ;Austin
+Sunny    ;          ;Sunny       ;Amy,Sunny   ;Sunny
+Sunny    ;Gabe      ;Sunny       ;Amy,Sunny   ;Sunny
+Sunny    ;Gabe      ;Austin,Gabe ;Austin,Sunny;Sunny
+Sunny    ;Gabe      ;Austin,Gabe ;Austin,Sunny;Sunny
