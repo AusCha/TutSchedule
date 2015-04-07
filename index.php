@@ -6,7 +6,7 @@ require_once 'header.php';
 <nav>
     <a href="http://cs.csubak.edu">CS Home</a>
     <a href="http://csub.edu">CSUB</a>
-    <!--a href="http://cs.csubak.edu/~jpina/tutorials">Jaime Piña</a--!>
+    <!--a href="http://cs.csubak.edu/~jpina/tutorials">Jaime Piña</a-->
 </nav>
 <h1>Tutoring Schedule Spring 2015</h1>
 <?php
