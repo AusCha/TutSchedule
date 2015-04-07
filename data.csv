@@ -16,7 +16,7 @@ Zenaida       ;               ;              ;Amy,Sunny   ;Austin
               ;               ;              ;Amy,Sunny   ;Austin
               ;               ;              ;Amy,Sunny   ;Austin
               ;               ;              ;Amy,Sunny   ;Austin
-Sunny         ;               ;Amy,Sunny     ;Austin,Sunny;Amy,Sunny
-Sunny         ;Gabe           ;Amy,Sunny     ;Austin,Sunny;Amy,Sunny
-Sunny         ;Gabe           ;Austin,Gabe   ;Austin,Sunny;Amy,Sunny
-Sunny         ;Gabe           ;Austin,Gabe   ;Austin,Sunny;Sunny
+Sunny         ;               ;Amy,Sunny     ;Austin      ;Amy,Sunny
+Sunny         ;Gabe           ;Amy,Sunny     ;Austin      ;Amy,Sunny
+Sunny         ;Gabe           ;Austin,Gabe   ;Austin      ;Amy,Sunny
+Sunny         ;Gabe           ;Austin,Gabe   ;Austin      ;Sunny
