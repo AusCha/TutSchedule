@@ -1,0 +1,68 @@
+html {
+    background: #444444;
+}
+body {
+    max-width: 720px;
+    margin: 0 auto;
+}
+h1 {
+    color: #FFFFFF;
+}
+label {
+    font-weight: bold;
+    color: #FFFFFF;
+}
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 8px;
+    margin: 8px;
+    background: #000000;
+}
+a:hover {
+    color: gray;
+}
+select {
+    margin-right:  8px;
+    margin-bottom: 16px;
+}
+table {
+    border-collapse: collapse;
+    margin-bottom: 32px;
+}
+table th, table td{
+    padding: 4px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+}
+.Amy {
+    background: #2ABB9B;
+    color: #1F1F1F;
+}
+.Austin {
+    background: #AEA8D3;
+    color: #1F1F1F;
+}
+.Gabe {
+    background: #1F1F1F;
+}
+.Inderjit {
+    background: #83B5E6;
+    color: #1F1F1F;
+}
+.Kevin {
+    background: #F9BF3B;
+    color: #1F1F1F;
+}
+.Mark {
+    background: #87D37C;
+    color: #1F1F1F;
+}
+.Sunny {
+    background :#ECECEC;
+    color: #1F1F1F;
+}
+.Zenaida {
+    background: #E08283;
+    color: #1F1F1F;
+}

@@ -6,7 +6,7 @@ require_once 'header.php';
 <nav>
     <a href="http://cs.csubak.edu">CS Home</a>
     <a href="http://csub.edu">CSUB</a>
-    <a href="http://cs.csubak.edu/~jpina/tutorials">Jaime Piña</a>
+    <!--a href="http://cs.csubak.edu/~jpina/tutorials">Jaime Piña</a--!>
 </nav>
 <h1>Tutoring Schedule Spring 2015</h1>
 <?php
@@ -15,15 +15,18 @@ $fd = fopen("data.csv", "r");
 <label>
 Highlight: 
 </label>
-<select>
+<select id="Highlight-Tutor">
     <option>None</option>
     <option>Amy</option>
     <option>Austin</option>
     <option>Gabe</option>
+    <option>Inderjit</option>
     <option>Kevin</option>
+    <option>Mark</option>
     <option>Sunny</option>
+    <option>Zenaida</option>
 </select>
-<table>
+<table id="box">
 <tr>
     <th>Start - End</th>
     <th>Monday</th>
@@ -63,7 +66,7 @@ Highlight:
         
         if ($fd  !== FALSE)
         {
-            $names = fgetcsv($fd, 64, ";");
+            $names = fgetcsv($fd, 512, ";");
         }
 
         for ($i = 0; $i < 5; $i++)
