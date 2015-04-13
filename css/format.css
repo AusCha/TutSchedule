@@ -5,6 +5,9 @@ body {
     max-width: 720px;
     margin: 0 auto;
 }
+nav {
+    margin-top: 1rem;
+}
 h1 {
     color: #FFFFFF;
 }
